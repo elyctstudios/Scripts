@@ -1,6 +1,6 @@
 ---====== Define spawner ======---
 
-local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Entity%20Spawner/Source.lua"))()
+local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sorisoft/HazeServices/main/CustomService/Entities/source.lua"))()
 
 ---====== Create entity ======---
 
